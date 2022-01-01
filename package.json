@@ -1,0 +1,16 @@
+{
+    "name": "stringsimilarity",
+    "version": "1.0",
+    "description": "Package that check similarity of string",
+    "keywords": ["string-similarity", "String", "Similarity", "Similar", "Text"],
+    "type": "commonjs",
+    "main": "StringSimilarity.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "stampkan",
+        "email": "stampkantanatlaptop@hotmail.com"
+    },
+    "license": "MIT"
+}
